@@ -1,3 +1,4 @@
+ONLY TEST GITHUB!!!
 [ ![Download](https://api.bintray.com/packages/irshu/maven/laser-native-editor/images/download.svg) ](https://bintray.com/irshu/maven/laser-native-editor/_latestVersion)&nbsp;![enter image description here](https://img.shields.io/badge/issues-8-red.svg)
 
 Android-WYSIWYG-Editor
